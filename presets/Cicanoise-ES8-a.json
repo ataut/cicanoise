@@ -11,17 +11,17 @@
 					"bbdmi.multislider::Chans" : [ 2 ],
 					"bbdmi.multislider::Mode" : [ 0 ],
 					"bbdmi.multislider::Index" : [ 0 ],
-					"bbdmi.multislider::Multislider" : [ 0.294633941476312, 0.462618261375795 ],
+					"bbdmi.multislider::Multislider" : [ 0.0, 0.0 ],
 					"bbdmi.calibrate::Chans" : [ 2 ],
-					"bbdmi.calibrate::Time" : [ 4 ],
+					"bbdmi.calibrate::Time" : [ 10 ],
 					"bbdmi.calibrate::bbdmi.calibrate[1]::Curve" : [ 1.0 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Mode" : [ 1 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Min" : [ 0.042435238126334 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Max" : [ 0.202694897792955 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Mode" : [ 0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Min" : [ 0.0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Max" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[2]::Curve" : [ 1.0 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Mode" : [ 1 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Min" : [ 0.004544074917477 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Max" : [ 0.009630406890184 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Mode" : [ 0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Min" : [ 0.0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Max" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Mode" : [ 0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Min" : [ 0.0 ],
@@ -104,26 +104,26 @@
 					"bbdmi.smooth[1]::Smooth" : [ 0.5 ],
 					"bbdmi.list2~[1]::Chans" : [ 4 ],
 					"bbdmi.rms~[1]::Chans" : [ 4 ],
-					"bbdmi.rms~[1]::Winsize" : [ 0.504 ],
+					"bbdmi.rms~[1]::Winsize" : [ 0.5 ],
 					"bbdmi.rms~[1]::Interval" : [ 10 ],
 					"bbdmi.calibrate[1]::Chans" : [ 4 ],
-					"bbdmi.calibrate[1]::Time" : [ 4 ],
+					"bbdmi.calibrate[1]::Time" : [ 5 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Min" : [ 0.042441374701264 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Max" : [ 0.2071537875605 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Min" : [ 0.045432905000352 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Max" : [ 0.329513625774016 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Min" : [ 0.004512892198169 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Max" : [ 0.009514097200426 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Min" : [ 0.004758071436413 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Max" : [ 0.045574363596965 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Min" : [ 0.0 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Max" : [ 1.0 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Min" : [ 0.006959217035044 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Max" : [ 0.039268267060615 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Min" : [ 0.0 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Max" : [ 1.0 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Min" : [ 0.004233275891566 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Max" : [ 0.046822512674143 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Mode" : [ 0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Min" : [ 0.0 ],
@@ -177,38 +177,7 @@
 					"bbdmi.multislider[1]::Chans" : [ 4 ],
 					"bbdmi.multislider[1]::Mode" : [ 0 ],
 					"bbdmi.multislider[1]::Index" : [ 0 ],
-					"bbdmi.multislider[1]::Multislider" : [ 0.284479003922393, 0.459178054465321, 0.0, 0.0 ],
-					"bbdmi.crosspatch[1]::Out" : [ 4 ],
-					"bbdmi.crosspatch[1]::In" : [ 4 ],
-					"bbdmi.crosspatch[1]::Crosspatch" : [ 						{
-							"data" : 							{
-								"numins" : 4,
-								"numouts" : 4,
-								"connections" : [ 									{
-										"in" : 0,
-										"out" : 0,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 1,
-										"out" : 1,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 2,
-										"out" : 2,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 3,
-										"out" : 3,
-										"gain" : 1.0
-									}
- ]
-							}
-
-						}
- ]
+					"bbdmi.multislider[1]::Multislider" : [ 0.087011073829586, 0.02579494672941, 1.0, 0.047874669765372 ]
 				}
 
 			}
@@ -222,17 +191,17 @@
 					"bbdmi.multislider::Chans" : [ 2 ],
 					"bbdmi.multislider::Mode" : [ 0 ],
 					"bbdmi.multislider::Index" : [ 0 ],
-					"bbdmi.multislider::Multislider" : [ 0.300246229904032, 0.548802611606432 ],
+					"bbdmi.multislider::Multislider" : [ 0.0, 0.0 ],
 					"bbdmi.calibrate::Chans" : [ 2 ],
-					"bbdmi.calibrate::Time" : [ 4 ],
+					"bbdmi.calibrate::Time" : [ 10 ],
 					"bbdmi.calibrate::bbdmi.calibrate[1]::Curve" : [ 1.0 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Mode" : [ 1 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Min" : [ 0.042337906229509 ],
-					"bbdmi.calibrate::bbdmi.calibrate[1]::Max" : [ 0.114580048044856 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Mode" : [ 0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Min" : [ 0.0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[1]::Max" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[2]::Curve" : [ 1.0 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Mode" : [ 1 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Min" : [ 0.005203197723773 ],
-					"bbdmi.calibrate::bbdmi.calibrate[2]::Max" : [ 0.009648742261767 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Mode" : [ 0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Min" : [ 0.0 ],
+					"bbdmi.calibrate::bbdmi.calibrate[2]::Max" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Mode" : [ 0 ],
 					"bbdmi.calibrate::bbdmi.calibrate[3]::Min" : [ 0.0 ],
@@ -315,26 +284,26 @@
 					"bbdmi.smooth[1]::Smooth" : [ 0.5 ],
 					"bbdmi.list2~[1]::Chans" : [ 4 ],
 					"bbdmi.rms~[1]::Chans" : [ 4 ],
-					"bbdmi.rms~[1]::Winsize" : [ 0.504 ],
+					"bbdmi.rms~[1]::Winsize" : [ 0.5 ],
 					"bbdmi.rms~[1]::Interval" : [ 10 ],
 					"bbdmi.calibrate[1]::Chans" : [ 4 ],
-					"bbdmi.calibrate[1]::Time" : [ 4 ],
+					"bbdmi.calibrate[1]::Time" : [ 5 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Min" : [ 0.042366224546113 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Max" : [ 0.114490040858334 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Min" : [ 0.041763837888485 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[1]::Max" : [ 0.108462225619052 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Min" : [ 0.00515362750193 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Max" : [ 0.009532373321554 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Min" : [ 0.005136356838915 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[2]::Max" : [ 0.008547296737945 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Min" : [ 0.0 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Max" : [ 1.0 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Min" : [ 0.010351011522689 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[3]::Max" : [ 0.045884968631361 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Mode" : [ 1 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Min" : [ 0.0 ],
-					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Max" : [ 1.0 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Min" : [ 0.003366472011546 ],
+					"bbdmi.calibrate[1]::bbdmi.calibrate[4]::Max" : [ 0.009251164414877 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Curve" : [ 1.0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Mode" : [ 0 ],
 					"bbdmi.calibrate[1]::bbdmi.calibrate[5]::Min" : [ 0.0 ],
@@ -388,38 +357,7 @@
 					"bbdmi.multislider[1]::Chans" : [ 4 ],
 					"bbdmi.multislider[1]::Mode" : [ 0 ],
 					"bbdmi.multislider[1]::Index" : [ 0 ],
-					"bbdmi.multislider[1]::Multislider" : [ 0.299236568722435, 0.568453350853901, 0.0, 0.0 ],
-					"bbdmi.crosspatch[1]::Out" : [ 4 ],
-					"bbdmi.crosspatch[1]::In" : [ 4 ],
-					"bbdmi.crosspatch[1]::Crosspatch" : [ 						{
-							"data" : 							{
-								"numins" : 4,
-								"numouts" : 4,
-								"connections" : [ 									{
-										"in" : 0,
-										"out" : 0,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 1,
-										"out" : 1,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 2,
-										"out" : 2,
-										"gain" : 1.0
-									}
-, 									{
-										"in" : 3,
-										"out" : 3,
-										"gain" : 1.0
-									}
- ]
-							}
-
-						}
- ]
+					"bbdmi.multislider[1]::Multislider" : [ 0.802356000036031, 0.094906597150493, 0.155682907635742, 0.366522133871467 ]
 				}
 
 			}
