@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 5,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 182.0, 92.0, 1232.0, 760.0 ],
+		"rect" : [ 182.0, 92.0, 834.0, 760.0 ],
 		"openrect" : [ 0.0, 0.0, 834.0, 760.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -326,7 +326,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 469.0, 424.0, 154.0, 35.0 ],
-					"text" : "-0.072876 0.005981 0.004395 0.015259"
+					"text" : "0.029907 -0.00415 0.028809 -0.033447"
 				}
 
 			}
@@ -418,6 +418,7 @@
 					"patching_rect" : [ 615.0, 37.5, 198.0, 88.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 424.0, 8.0, 198.0, 88.0 ],
+					"varname" : "bbdmi.eavi[1]",
 					"viewvisibility" : 1
 				}
 
@@ -586,7 +587,7 @@
 						"appversion" : 						{
 							"major" : 8,
 							"minor" : 6,
-							"revision" : 5,
+							"revision" : 4,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -889,6 +890,7 @@
 					"patching_rect" : [ 32.0, 31.0, 198.0, 88.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 7.0, 8.0, 198.0, 88.0 ],
+					"varname" : "bbdmi.eavi",
 					"viewvisibility" : 1
 				}
 
@@ -1004,12 +1006,11 @@
 					"priority" : 					{
 						"bbdmi.multislider::Multislider" : 1,
 						"bbdmi.crosspatch::Crosspatch" : 1,
-						"bbdmi.multislider[1]::Multislider" : 1,
-						"bbdmi.crosspatch[1]::Crosspatch" : 1
+						"bbdmi.multislider[1]::Multislider" : 1
 					}
 ,
 					"saved_object_attributes" : 					{
-						"client_rect" : [ 4, 45, 358, 173 ],
+						"client_rect" : [ 4, 44, 358, 172 ],
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0,
 						"storage_rect" : [ 583, 69, 1034, 197 ]
@@ -1561,6 +1562,13 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "Cicanoise-ES8-a.json",
+				"bootpath" : "~/Documents/GitHub/cicanoise",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "bbdmi.calibrate.maxpat",
 				"bootpath" : "~/Documents/GitHub/bbdmi/max/control_processing/calibrate",
 				"patcherrelativepath" : "../bbdmi/max/control_processing/calibrate",
